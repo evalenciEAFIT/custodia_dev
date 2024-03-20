@@ -1,10 +1,5 @@
 # custodia_dev
 
-Desarrollado por Edison Valencia Diaz, 
-
-Universidad EAFIT
-
-
 
 Este es un proyecto para gestionar el gobierno de datos de la experimentación de la investigación.
 
